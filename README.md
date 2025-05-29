@@ -10,6 +10,6 @@ Controls
  - E: Clear game board without resetting the score
  - R: Reset game board and score
  - X: Toggle AI (on/off)
- - <Return>: Display key variables for debug reasons
+ - Return: Display key variables for debug reasons
 
    
